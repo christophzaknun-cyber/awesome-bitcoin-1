@@ -63,3 +63,7 @@ News outlets for Bitcoin related products and services.
 # Payment Processors
 Stuff that helps you process payments using bitcoins.
 * [BitPay](https://bitpay.com)
+
+# Analytics & On-chain Tools
+On-chain analytics and market cycle tools.
+* [bitcoinbottom.app](https://bitcoinbottom.app) - Free Bitcoin cycle bottom probability tracker. Aggregates 25 on-chain signals (MVRV Z-Score, Puell Multiple, Hash Ribbon, Fear & Greed, etc.) into a daily score. No signup required.
